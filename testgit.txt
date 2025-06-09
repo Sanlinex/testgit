@@ -2,3 +2,5 @@ test belajar git dan github
 -saya ingin bisa git
 -membuat platform bersama
 -mempermudah kerjasama
+-kedepannya agar aplikasi lebih creative
+-agar banyak kolaborasi
