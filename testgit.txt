@@ -1,0 +1,4 @@
+test belajar git dan github
+-saya ingin bisa git
+-membuat platform bersama
+-mempermudah kerjasama
